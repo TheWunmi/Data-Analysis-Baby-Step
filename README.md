@@ -1,1 +1,19 @@
-# Data-Analysis-Baby-Step
+# Olawunmi Dada- Baby-Step-in-Data-Analysis
+
+----
+# Project Objective: Problem Statement
+
+
+
+-----
+# Data Sourcing 
+
+
+
+------
+# Data Transformation
+
+
+
+------
+# Findings and Recommendation
